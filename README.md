@@ -1,4 +1,4 @@
-# password-generator
+# Password-generator
 
 
 ## More projects : 
