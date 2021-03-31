@@ -22,6 +22,7 @@
    
   - [Virtual Assistant](https://github.com/vishal2376/virtual-assistant)
   - [Website Designs](https://github.com/vishal2376/Website-Design)
+  - [C++ Mini Projects](https://github.com/vishal2376/cpp-mini-projects) 
   
 ## Contact Us:  
   - [Instagram](https://www.instagram.com/vishal_2376/)
